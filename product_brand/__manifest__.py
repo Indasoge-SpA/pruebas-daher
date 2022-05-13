@@ -10,12 +10,12 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 
 {
-    "name": "Product Brand and Model Manager",
-    "version": "14.0.1.1.0",
+    "name": "Product Brand Manager",
+    "version": "14.0.1.2.0",
     "development_status": "Mature",
     "category": "Product",
     "summary": "Product Brand Manager",
-    "author": "Indasoge NetAndCo, Akretion, Prisnet Telecommunications SA, "
+    "author": "NetAndCo, Akretion, Prisnet Telecommunications SA, "
     "MONK Software, SerpentCS Pvt. Ltd., Tecnativa, Kaushal "
     "Prajapati, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/brand",
